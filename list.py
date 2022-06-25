@@ -84,7 +84,7 @@ def rever(r):
     print(result)
 rever("hilda")
 
-write a python program that takes in a string and returns the reversed of a strinng
+# write a python program that takes in a string and returns the reversed of a strinng
 def reversal(word):
     r_reverses=""
     for i in word:
